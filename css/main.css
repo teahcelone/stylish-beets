@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
-  font: normal 1rem/1.5 'PT Serif', serif;
+  font: normal 1rem/1.5 "PT Serif", serif;
   line-height: 1.5;
 }
 
@@ -15,7 +15,7 @@ img {
 
 h1, h2 {
   color: #3f1622;
-  font-family: 'PT Sans-serif', sans-serif;
+  font-family: "PT Sans-serif", sans-serif;
 }
 
 h1 {
@@ -27,7 +27,7 @@ blockquote strong {
 }
 
 figcaption {
-  font-size:  .8rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
@@ -35,7 +35,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: 'PT Sans-serif', sans-serif;
+  font-family: "PT Sans-serif", sans-serif;
 }
 
 nav ol {
