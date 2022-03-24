@@ -1,0 +1,53 @@
+html {
+  box-sizing: border-box;
+  background-color: #c9b5ab;
+  font: normal 1rem/1.5 'PT Serif', serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+h1, h2 {
+  color: #3f1622;
+  font-family: 'PT Sans-serif', sans-serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+blockquote strong {
+  font-weight: normal;
+}
+
+figcaption {
+  font-size:  .8rem;
+  font-style: italic;
+  text-align: center;
+}
+
+nav {
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-family: 'PT Sans-serif', sans-serif;
+}
+
+nav ol {
+  list-style-type: none;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
